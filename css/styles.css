@@ -1,0 +1,21 @@
+body {
+    background-color: #EAF6F6;
+    color: #2C3E50;
+}
+hr {
+    border-color: grey;
+    border-style: dotted none none none;
+    width: 7%;
+    border-width: 5px;
+}
+h1 {
+    /* color: #66BFBF; */
+}
+.profileImg {
+    width: 60%;
+    height: 60%;
+
+}
+div {
+    padding-left: 0;
+}
